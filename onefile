@@ -1,0 +1,6 @@
+public void aa(){
+  int a=10;
+  int b=20;
+  inc c=a+b;
+  system.out.println(c);
+}
